@@ -28,3 +28,6 @@ env.bak/
 
 # Static files directory
 nostatic/
+
+# JetBrains IDE project files
+.idea/
